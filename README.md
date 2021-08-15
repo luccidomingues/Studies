@@ -1,1 +1,1 @@
-# Studies of classifiers and statistics
+# Studies of machine learning classifiers and statistics.
